@@ -1,4 +1,4 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" style="border-radius:25%;"/>
+<img src="github_banner.png" alt="GitHub Banner" width="100%" style="border-radius:25%;"/>
 
 # 💫 About Me:
 👨🏻‍🎓 Students at Universitas Teknologi Yogyakarta <br>📷 Digital Creator
