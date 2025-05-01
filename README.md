@@ -5,7 +5,20 @@
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/aCaHGES9V4) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/muzaaqi_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muzaaqi) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@muzaaqi_) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/muzaaqi_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@muzaaqi_) 
+<p align="center">
+  <a href="https://instagram.com/muzaaqi_">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://discord.gg/aCaHGES9V4">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+  <a href="https://x.com/muzaaqi_">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  <a href="https://linkedin.com/in/muzaaqi">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
 
 ## 💻 Tech Stack:
 <p align="center">
