@@ -3,23 +3,6 @@
 ## 💫 About Me:
 👨🏻‍🎓 Students at Universitas Teknologi Yogyakarta <br>📷 Digital Creator
 
-
-## 🌐 Socials:
-<p align="center">
-  <a href="https://instagram.com/muzaaqi_">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-  <a href="https://discord.gg/aCaHGES9V4">
-    <img src="https://skillicons.dev/icons?i=discord" />
-  </a>
-  <a href="https://x.com/muzaaqi_">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
-  <a href="https://linkedin.com/in/muzaaqi">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-</p>
-
 ## 💻 Tech Stack:
 <p align="center">
   <a href="#">
