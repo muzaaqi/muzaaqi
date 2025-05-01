@@ -9,7 +9,7 @@
 
 ## 💻 Tech Stack:
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,html,css,js,py,npm,nodejs,vite,vue,tailwind,bootstrap" />
   </a>
 </p>
