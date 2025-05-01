@@ -17,7 +17,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muzaaqi&radius=16&theme=github-dark&area=true&order=5&custom_title=Activity%20Graph&hide_border=true&hide_title=true&point=E7FCFF" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muzaaqi&radius=16&theme=github-dark&area=true&order=5&custom_title=Activity%20Graph&hide_border=true&hide_title=true&point=E7FCFF" height="170" alt="activity-graph graph"  />
 </div>
 
 <picture>
