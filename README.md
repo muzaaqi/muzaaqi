@@ -16,10 +16,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=muzaaqi&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/muzaaqi/count.svg?"  />
-</div>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muzaaqi/muzaaqi/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muzaaqi/muzaaqi/output/pacman-contribution-graph.svg">
