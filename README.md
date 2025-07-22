@@ -4,10 +4,22 @@
 👨🏻‍🎓 Students at Universitas Teknologi Yogyakarta <br>📷 Digital Creator
 
 ## 💻 Tech Stack:
-### 🔨Tools:
+### 🖱️Software:
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=vscode,figma,docker,git,github,cloudflare,html,css,js,ts,py,npm,nodejs,nextjs,flask,vite,react,tailwind,bootstrap,sqlite" />
+    <img src="https://skillicons.dev/icons?i=vscode,figma,docker,git,github,cloudflare" />
+  </a>
+</p>
+### ⌨️ Language:
+<p align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py" />
+  </a>
+</p>
+### 🔨 Tools
+<p align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=npm,nodejs,nextjs,flask,vite,react,tailwind,bootstrap" />
   </a>
 </p>
 
