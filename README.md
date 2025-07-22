@@ -5,19 +5,19 @@
 
 ## 💻 Tech Stack:
 ### 🖱️Software:
-<p align="center">
+<p>
   <a href="#">
     <img src="https://skillicons.dev/icons?i=vscode,figma,docker,git,github,cloudflare" />
   </a>
 </p>
 ### ⌨️ Language:
-<p align="center">
+<p >
   <a href="#">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,py" />
   </a>
 </p>
 ### 🔨 Tools
-<p align="center">
+<p>
   <a href="#">
     <img src="https://skillicons.dev/icons?i=npm,nodejs,nextjs,flask,vite,react,tailwind,bootstrap" />
   </a>
