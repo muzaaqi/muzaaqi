@@ -11,12 +11,12 @@
   </a>
 </p>
 ### ⌨️ Language:
-<p >
+<p>
   <a href="#">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,py" />
   </a>
 </p>
-### 🔨 Tools
+### 🔨 Tools:
 <p>
   <a href="#">
     <img src="https://skillicons.dev/icons?i=npm,nodejs,nextjs,flask,vite,react,tailwind,bootstrap" />
