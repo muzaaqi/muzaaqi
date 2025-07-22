@@ -6,7 +6,7 @@
 ## 💻 Tech Stack:
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=vscode,figma,docker,git,github,html,css,js,py,npm,nodejs,nextjs,vite,react,tailwind,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=vscode,figma,docker,git,github,html,css,js,ts,py,npm,nodejs,nextjs,vite,react,tailwind,bootstrap" />
   </a>
 </p>
 
