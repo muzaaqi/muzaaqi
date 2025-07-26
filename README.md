@@ -7,7 +7,7 @@
 ### 🖱️Software:
 <p>
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=vscode,figma,docker,git,github,cloudflare" />
+    <img src="https://skillicons.dev/icons?i=vscode,pycharm,webstorm,figma,docker,git,github,cloudflare" />
   </a>
 </p>
 
