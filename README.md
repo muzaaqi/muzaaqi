@@ -21,7 +21,7 @@
 ### 🔨 Tools:
 <p>
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=npm,nodejs,nextjs,flask,vite,react,tailwind,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=npm,nodejs,nextjs,flask,express,prisma,vite,react,tailwind,bootstrap" />
   </a>
 </p>
 
