@@ -5,34 +5,15 @@
 👨🏻‍🎓 Students at Universitas Teknologi Yogyakarta <br>📷 Digital Creator
 
 ## 💻 Tech Stack:
-
-### 🖱️Software:
-
 <p>
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=vscode,pycharm,webstorm,figma,docker,git,github,cloudflare" />
-  </a>
-</p>
-
-### ⌨️ Language:
-
-<p>
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py" />
-  </a>
-</p>
-
-### 🔨 Tools:
-
-<p>
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=npm,nodejs,nextjs,flask,express,prisma,supabase,vite,react,tailwind,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=js,ts,py,vscode,pycharm,webstorm,figma,docker,git,github,cloudflare,nodejs,nextjs,flask,express,prisma,supabase,vite,react,tailwind" />
   </a>
 </p>
 
 ## 📊 GitHub Stats:
 
-<!-- <div allign="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=muzaaqi&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muzaaqi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div> -->
